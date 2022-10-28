@@ -21,7 +21,7 @@
           <a
             href="https://community.vuetifyjs.com"
             target="_blank"
-          >Discord Community</a>
+          >Discord Community</a> > <!-- this is testing again only for rnd - mdscsi -->
         </p>
       </v-col>
 
